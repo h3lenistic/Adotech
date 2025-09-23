@@ -5,12 +5,10 @@ Luísa, como Gerente de Projeto.
 
 Rodrigo, como Scrum Master.
 
-João Felipe, como Desenvolvedor.
-
 Isabela, como Desenvolvedora.
 
 Nícolas, como Documentador. 
 
 Danielly, como Documentadora.
 
-https://adotech.lovable.app/
+LINK DO SITE ADOTECH: https://adotech.lovable.app/
